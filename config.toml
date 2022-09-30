@@ -1,0 +1,4 @@
+theme = 'PaperMod'
+baseURL = 'https://irihit.github.io/'
+languageCode = 'ja-jp'
+title = '@irihit'
