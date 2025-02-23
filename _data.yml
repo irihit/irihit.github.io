@@ -1,0 +1,15 @@
+lang: ja
+
+home:
+  welcome: Hello
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: "@irihit"
+  description: The blog written by @irihit
+  title: "=title"
+  image: "=image"
+  lang: ja
